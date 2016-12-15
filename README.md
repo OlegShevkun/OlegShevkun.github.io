@@ -1,6 +1,5 @@
 # OlegShevkun.github.io
 
-# Oleg Shevkun
 ##### GENERAL INFORMATION:
 * Date of birhday - 01/07/16
 * For any additional information, please, contact me via:
