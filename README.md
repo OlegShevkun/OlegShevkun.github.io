@@ -13,7 +13,7 @@
 * Hands-on experience in Human Resource Management
 * Full cycle recruitment experience involving sourcing screening, identifying and interviewing personnel 
 
-##### AREAS OF EXPERTISE
+##### AREAS OF EXPERTISE:
 * Employee recruitment & retention
 * Hiring strategies
 * HR management
