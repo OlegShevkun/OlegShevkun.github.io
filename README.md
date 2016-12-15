@@ -21,7 +21,8 @@
 * Problem solving
 
 ##### EDUCATION
-Simon Kuznets Kharkiv National University of Economics				Ukraine Master’s Degree in Finance
+Simon Kuznets Kharkiv National University of Economics				
+Ukraine Master’s Degree in Finance
  
 ```bash
 Version - 0.0.1
