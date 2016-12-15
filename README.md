@@ -8,11 +8,11 @@
     * [Skype](Shevkun.oleg)
 
 ##### SUMMARY: 
-
 * Over 3 years of total experience in Recruiting 
 * Rich work experience in recruiting IT professionals 
 * Hands-on experience in Human Resource Management
 * Full cycle recruitment experience involving sourcing screening, identifying and interviewing personnel 
+
 ##### AREAS OF EXPERTISE
 * Employee recruitment & retention
 * Hiring strategies
