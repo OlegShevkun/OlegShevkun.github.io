@@ -1,5 +1,12 @@
 # OlegShevkun.github.io
 
+##### Odject of learning
+* Why I want to learn?
+    * First of all, is self-education, it helps to me look for the world from another side, I'm satisfy with its process. 
+    * Secondary is an opportunity, once I want to try a traveling, Live in different countries, works remotely.
+* What do you ready to do for learning? 
+    * Everythings as possible
+
 ##### GENERAL INFORMATION:
 * Date of birhday - 01/07/16
 * For any additional information, please, contact me via:
